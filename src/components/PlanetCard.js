@@ -19,7 +19,7 @@ const { string } = PropTypes;
 
 PlanetCard.propTypes = {
   planetName: string.isRequired,
-  planetImage: img.isRequired,
+  planetImage: string.isRequired,
 };
 
 export default PlanetCard;
