@@ -19,7 +19,7 @@ class MissionCard extends Component {
 
 const { string } = PropTypes;
 
-MissionCard.prototype = {
+MissionCard.propTypes = {
   name: string.isRequired,
   year: string.isRequired,
   country: string.isRequired,
