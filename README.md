@@ -1,41 +1,42 @@
-# Habilidades
-Neste projeto, verificamos se voce é capaz de:
+Em construção... :construction: :hammer: :wrench:
 
-  * Utilizar JSX no React
+# :dizzy: Solar System
 
-  * Utilizar corretamente o método `render()` para renderizar seus componentes
+---
+## Habilidades
+Neste projeto, pude aprimorar minhas habilidades:
 
-  * Utilizar `import` para trazer componentes em diferentes arquivos
+  * Utilizando o JSX no React
 
-  * Criar componentes de classe em React
+  * Utilizando corretamente o método `render()` para renderizar seus componentes
 
-  * Criar múltiplos componentes a partir de um array
+  * Utilizando o `import` para trazer componentes em diferentes arquivos
 
-  * Fazer uso de `props` corretamente
+  * Criando componentes de classe em React
 
-  * Fazer uso de `PropTypes` para validar as `props de um componente`
+  * Criando múltiplos componentes a partir de um array
 
-## O que deverá ser desenvolvido
+  * Fazendo o uso de `props` corretamente
 
-Neste projeto você vai desenvolver um modelo do sistema solar! Ao utilizar essa aplicação uma pessoa usuária deverá ser capaz de:
+  * Fazendo o uso de `PropTypes` para validar as `props de um componente`
+
+
+## O que foi desenvolvido
+
+Neste projeto desenvolvi um modelo do sistema solar! Ao utilizar essa aplicação uma pessoa usuária será capaz de:
 
   * Visualizar todos os planetas do sistema solar renderizados na tela;
 
   * Visualizar todas as cartas com informações sobre missões espaciais;
 
-Ao final deste projeto, sua aplicação deverá ser algo semelhante a essa [imagem](https://www.figma.com/file/vcire16CytAa1QWrriuunm/Sistema-Solar?node-id=0%3A1).
-
-Caso queira utilizar a mesma imagem de fundo apresentada no figma, ela está sendo disponibilizada dentro da pasta `src/images`.
-
-Para entregar o seu projeto você deverá criar um Pull Request neste repositório.
-
-Lembre-se que você pode consultar nosso conteúdo sobre Git & GitHub no Course sempre que precisar
 
 ## Desenvolvimento
 
-Você deve desenvolver uma aplicação em React com criação de componentes de classe e passagem de props. Essa aplicação simulará uma visualização do **Sistema Solar**, bem como informações sobre diversas missões espacias que ocorreram ao longo da história.
+Foi desenvolvido uma aplicação em React com criação de componentes de classe e passagem de props. Essa aplicação simula uma visualização do **Sistema Solar**, bem como informações sobre diversas missões espacias que ocorreram ao longo da história.
 
-As imagens dos planetas e as informações das missões são fornecidas no projeto. Você terá que desenvolver os componentes necessários para exibi-las na tela, conforme o descrito nos requisitos.
+As imagens dos planetas e as informações das missões são fornecidas no projeto.
+
+
 ## Antes de começar a desenvolver
 
 1. Clone o repositório
@@ -45,3 +46,21 @@ As imagens dos planetas e as informações das missões são fornecidas no proje
     * `npm install`
   * Inicialize o projeto:
     * `npm start` (uma nova página deve abrir no seu navegador com um texto simples)
+
+## Stack utilizada
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</p>
+
+## Gif do Projeto finalizado
+
+<img src="src/images/project-system-solar.gif" alt="project-system-solar.gif"/>
+
+## Links
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiselyKC)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giselycavalli/)
