@@ -1,3 +1,12 @@
-.App {
-  text-align: center;
+* {
+  box-sizing: border-box;
+  color: aliceblue;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  background-image: url('./images/sky4.gif');
+  background-size: cover;
+  min-height: 100vh;
 }
