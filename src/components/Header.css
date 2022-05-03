@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.header-container {
+  background-color: rgba(0, 0, 0, 0.534);
+}
+
+.title-header {
+  color: aliceblue;
+  font-size: 45px;
+  letter-spacing: 2px;
+  padding: 20px;
+  text-align: center;
+}
