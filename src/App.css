@@ -6,7 +6,7 @@
 }
 
 .container {
-  background-image: url('./images/sky4.gif');
+  background-image: url('./images/sky.gif');
   background-size: cover;
   min-height: 100vh;
 }
