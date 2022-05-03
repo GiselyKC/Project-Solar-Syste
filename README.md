@@ -58,7 +58,7 @@ As imagens dos planetas e as informações das missões são fornecidas no proje
 
 ## Gif do Projeto finalizado
 
-<img src="src/images/project-system-solar.gif" alt="project-system-solar.gif"/>
+<img src="public/project-system-solar.gif" alt="project-system-solar.gif"/>
 
 ## Links
 
