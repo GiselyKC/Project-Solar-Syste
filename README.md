@@ -56,7 +56,7 @@ As imagens dos planetas e as informações das missões são fornecidas no proje
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p>
 
-## Gif do Projeto finalizado
+## Projeto finalizado
 
 <img src="public/project-system-solar.gif" alt="project-system-solar.gif"/>
 
