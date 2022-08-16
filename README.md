@@ -1,5 +1,3 @@
-Em construção... :construction: :hammer: :wrench:
-
 # :dizzy: Solar System
 
 ---
